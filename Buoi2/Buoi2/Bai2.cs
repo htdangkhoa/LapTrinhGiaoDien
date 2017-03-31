@@ -23,22 +23,22 @@ namespace Buoi2
 
         private void btnVU_Click(object sender, EventArgs e)
         {
-            txtResult.Text = (float.Parse(txtInput.Text) / USD).ToString("0.##");
+            txtResult.Text = MainClass.calculateMoney("VU", float.Parse(txtInput.Text), USD).ToString("0.##");
         }
 
         private void btnVE_Click(object sender, EventArgs e)
         {
-            txtResult.Text = (float.Parse(txtInput.Text) / EUR).ToString("0.##");
+            txtResult.Text = MainClass.calculateMoney("VE", float.Parse(txtInput.Text), EUR).ToString("0.##");
         }
 
         private void btnUV_Click(object sender, EventArgs e)
         {
-            txtResult.Text = (int.Parse(txtInput.Text) * USD).ToString();
+            txtResult.Text = MainClass.calculateMoney("UV", float.Parse(txtInput.Text), USD).ToString("0.##");
         }
 
         private void btnEV_Click(object sender, EventArgs e)
         {
-            txtResult.Text = (int.Parse(txtInput.Text) * EUR).ToString();
+            txtResult.Text = MainClass.calculateMoney("EV", float.Parse(txtInput.Text), EUR).ToString("0.##");
         }
 
         private void txtInput_TextChanged(object sender, EventArgs e)
