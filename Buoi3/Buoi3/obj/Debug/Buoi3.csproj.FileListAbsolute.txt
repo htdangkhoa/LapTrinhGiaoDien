@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.Bai1.resources
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.exe
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.pdb
