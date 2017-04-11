@@ -32,3 +32,6 @@ C:\Users\DangKhoa\Desktop\LapTrinhGiaoDien\Buoi2\Buoi2\obj\Debug\Buoi2.Bai5.reso
 C:\Users\DangKhoa\Desktop\LapTrinhGiaoDien\Buoi2\Buoi2\obj\Debug\Buoi2.Bai6.resources
 C:\Users\DangKhoa\Desktop\LapTrinhGiaoDien\Buoi2\Buoi2\obj\Debug\Buoi2.Properties.Resources.resources
 C:\Users\DangKhoa\Desktop\LapTrinhGiaoDien\Buoi2\Buoi2\obj\Debug\Buoi2.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi2\Buoi2\bin\Debug\Buoi2.exe.config
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi2\Buoi2\obj\Debug\Buoi2.exe
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi2\Buoi2\obj\Debug\Buoi2.pdb

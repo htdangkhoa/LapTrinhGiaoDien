@@ -7,3 +7,4 @@ C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.Properties.R
 C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.Cache
 C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.exe
 C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.pdb
+C:\Users\admin\Desktop\LapTrinhGiaoDien\Buoi3\Buoi3\obj\Debug\Buoi3.Bai4.resources
